@@ -39,3 +39,12 @@
 2. Load your DICOM MRI image file into the tool.
 3. Use the available tools for automated or manual annotation and segmentation.
 4. Save your work as a DICOM segmentation file (`_seg.dcm`).
+
+
+## License
+
+[GNU GENERAL PUBLIC LICENSE](https://github.com/midas-in/midas-dicom-doodle/blob/main/LICENSE)
+
+**DicomDoodle** is a Python-based, user-friendly graphical user interface (GUI) tool designed to streamline the annotation, segmentation, and visualization of DICOM medical images, with a particular focus on MRI data.
+
+    Copyright (C) 2025 IISc/Artpark
